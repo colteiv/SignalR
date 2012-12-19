@@ -72,6 +72,7 @@
     <Content Include="Build\test.config.js" />
     <Content Include="Tests\FunctionalTests\Transports\Auto\FallbackConnectionFacts.js" />
     <Content Include="Tests\FunctionalTests\Transports\LongPolling\LPConnectionFacts.js" />
+    <Content Include="Tests\FunctionalTests\Transports\LongPolling\LPReconnectFacts.js" />
     <Content Include="Tests\FunctionalTests\Transports\LongPolling\LPSendFacts.js" />
     <Content Include="Tests\FunctionalTests\Transports\ServerSentEvents\SSEConnectionFacts.js" />
     <Content Include="Tests\UnitTests\Connections\ConnectionFacts.js" />
